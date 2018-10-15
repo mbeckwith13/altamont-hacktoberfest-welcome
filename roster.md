@@ -12,3 +12,7 @@ Python
 ### David Niederweis
 12th grade  
 Javascript  
+
+### Madeleine Beckwith
+8th grade
+Python
